@@ -1,16 +1,17 @@
 ### Hi there 👋
 
+I am a Full stack web developer from Surabaya
 
-**alvinlaurente/alvinlaurente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Worked on multiple Vue (Nuxt.js) and Node.js projects 
+- 🌱 I’m currently learning React and GoLang
+- 👯 Collaborate on RevoU and Wajan.app
+- 🤔 I’m looking for help with GoLang
+- 💬 Ask me about PC builds, mechanical keyboard, tech, and games
+- 📫 How to reach me: https://www.linkedin.com/in/alvinlaurente
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on masih cari kerja
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on RevoU
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about everything
-- 📫 How to reach me: https://www.linkedin.com/in/alvinlaurente/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: -
-[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinlaurente)](https://github.com/anuraghazra/github-readme-stats)
+[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinlaurente&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alvin's GitHub top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinlaurente&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alvin's GitHub streaks](https://streak-stats.demolab.com/?user=alvinlaurente&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
